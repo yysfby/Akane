@@ -1,0 +1,23 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/countdown5.mp3"},
+	"8":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/btn_appear.mp3"},
+	"9":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/new_dora.mp3"},
+    "11":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/hule_fan_out.mp3"},
+    "25":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/jiantongying/act_pon.mp3"},
+    "26":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/miya/act_pon.mp3"},
+    "27":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/jiantongying/act_kan.mp3"},
+    "28":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/miya/act_kan.mp3"},
+    "29":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/jiantongying/act_chi.mp3"},
+    "30":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/miya/act_chi.mp3"},
+    "31":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/jiantongying/act_rich.mp3"},
+    "32":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/miya/act_rich.mp3"},
+    "33":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/jiantongying/act_ron.mp3"},
+    "34":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/miya/act_ron.mp3"},
+    "35":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/jiantongying/act_tumo.mp3"},
+    "36":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/miya/act_tumo.mp3"},
+    "40":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/winlose.mp3"},
+    "41":{"url":"https://cdn.jsdelivr.net/gh/HALFTSENBEI/tenhou-se-and-bg/yakuman.mp3"}
+  }
+}
